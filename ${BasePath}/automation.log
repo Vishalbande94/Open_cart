@@ -1,0 +1,5 @@
+2024-06-27 17:41:23 INFO  TC_001_RegistrationTest:15 - Test case TC_001_RegistrationTest Starting...
+2024-06-27 17:41:23 INFO  TC_001_RegistrationTest:19 - Clicked on My account link
+2024-06-27 17:41:24 INFO  TC_001_RegistrationTest:21 - Clicked on register link
+2024-06-27 17:41:24 INFO  TC_001_RegistrationTest:23 - Providing customer details 
+2024-06-27 17:41:25 INFO  TC_001_RegistrationTest:35 - Clicked on continue button

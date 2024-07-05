@@ -1,0 +1,5 @@
+2024-07-04 22:31:04 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@d5e575c: 1 ms
+2024-07-04 22:31:04 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@13213f26: 22 ms
+2024-07-04 22:31:04 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@5f8a02cf: 11 ms
+2024-07-04 22:31:04 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@a90e2c1: 5 ms
+2024-07-04 22:31:04 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@89caf47: 0 ms

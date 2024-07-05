@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+   <listeners>
+       <listener class-name="utilities.ExtentReportManager"></listener>
+   </listeners>
+    <test verbose="2" preserve-order="true" name="C:/Users/visha/IdeaProjects/Open_cart/src/test/java/testCases">
+        <parameter name="os" value="Windows"/>
+        <parameter name="browser" value="chrome"/>
+        <classes>
+            <!--class name="testCases.TC_001_RegistrationTest"/-->
+            <!--class name="testCases.TC_002_LoginTest"/-->
+            <class name="testCases.TC_003_LoginDDT">
+
+            </class>
+        </classes>
+    </test>
+</suite>
